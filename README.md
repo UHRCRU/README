@@ -1,5 +1,5 @@
 <h1 align="center">🎮 Uğur Can Şadılı 🚀</h1>
-<h3 align="center">Software Developer | AI Enthusiast | Tech Wizard</h3>
+<h3 align="center">AI & Data Intern | Python, Power BI, SQL | Turning Data into Insights</h3>
 
 
 <p align="center">
