@@ -32,16 +32,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UHRCRU&show_icons=true&theme=radical" alt="UHRCRU's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UHRCRU&theme=radical" alt="UHRCRU's GitHub Streak" />
-</p>
-
----
-
 <h3 align="center">Thanks for stopping by! Let's build something amazing together! 🚀</h3>
